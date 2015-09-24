@@ -1,0 +1,33 @@
+[
+   
+        {
+			"id": "1",
+			"title": "כתבה ראשונה - כותרת עבור כתבה ראשונה",
+            "description": "תיאור עבור כתבה ראשונה, ניסיון להכין כתבה ארוכה עבור אתר היציאה dsfdsf sdfsdfsd fsdfdsfd sfsdfs dfsdfsdf sdfsdfsdf sdfsdfs dfsdfsd",
+            "img": "img/news/tmb.jpg"
+        },
+        {
+			"id": "2",
+			"title": "כתבה שנייה - כותרת עבור כתבה ראשונה",
+            "description": "תיאור עבור כתבה ראשונה, ניסיון להכין כתבה ארוכה עבור אתר היציאה dsfdsf sdfsdfsd fsdfdsfd sfsdfs dfsdfsdf sdfsdfsdf sdfsdfs dfsdfsd",
+            "img": "img/news/tmb.jpg"
+        },
+        {
+			"id": "3",
+			"title": "כתבה 3 - כותרת עבור כתבה ראשונה",
+            "description": "תיאור עבור כתבה ראשונה, ניסיון להכין כתבה ארוכה עבור אתר היציאה dsfdsf sdfsdfsd fsdfdsfd sfsdfs dfsdfsdf sdfsdfsdf sdfsdfs dfsdfsd",
+            "img": "img/news/tmb.jpg"
+        },
+        {
+			"id": "4",
+			"title": "כתבה 4 - כותרת עבור כתבה ראשונה",
+            "description": "תיאור עבור כתבה ראשונה, ניסיון להכין כתבה ארוכה עבור אתר היציאה dsfdsf sdfsdfsd fsdfdsfd sfsdfs dfsdfsdf sdfsdfsdf sdfsdfs dfsdfsd",
+            "img": "img/news/tmb.jpg"
+        },
+        {
+			"id": "5",
+			"title": "כתבה 5 - כותרת עבור כתבה ראשונה",
+            "description": "תיאור עבור כתבה ראשונה, ניסיון להכין כתבה ארוכה עבור אתר היציאה dsfdsf sdfsdfsd fsdfdsfd sfsdfs dfsdfsdf sdfsdfsdf sdfsdfs dfsdfsd",
+            "img": "img/news/tmb.jpg"
+        }
+]
